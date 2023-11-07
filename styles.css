@@ -83,7 +83,7 @@ img {
     width: 100%;
 }
 .project-card:hover {
-    box-shadow: 4px 4px 12px 0px rgba(0, 0, 0, 0.70);
+    box-shadow: 0px 8px 20px 0px #000;
 }
 .preview {
     height: 160px;
