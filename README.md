@@ -2,13 +2,13 @@
 
 # Simple Portfolio Template
 
-✨ **A simple portfolio template built for anyone needing a simple website to display their projects.** ✨
+✨ **A portfolio template built for anyone needing a simple website to display their projects.** ✨
 
 You need to know **basic HTML and CSS** to use this template. :)
 
 > You can clone or fork this repository and customize it as you wish.
 
-#### [View the live preview of this template](https://belvieir4.github.io/portfolio-template/)
+### [View the live preview of this template](https://belvieir4.github.io/portfolio-template/)
 
 ## Suggestions and Resources
 
@@ -22,6 +22,8 @@ Here are some things that can help you customize your portfolio:
 - Use [Coloors](https://coolors.co) or any other colour palette generator to find a colour scheme that resonates with you and add it to your project
 
 - Create your personal favicon with the [favicon.io tool](https://favicon.io) and replace the puzzle from the template
+
+- Change the typography/font - you can use [Google Fonts](https://fonts.google.com) or add a custom font to your website
 
 ## Author
 
